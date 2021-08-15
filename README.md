@@ -13,13 +13,12 @@ Here are some ideas to get you started:
 - 💬 Ask me anything related to Flutter
 - 📫 How to reach me: Reach out to me directly through my [Instagram](https://instagram.com/ahmxmad) or [Linkedin](https://www.linkedin.com/in/ahmad-muji-burohman/)
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: ...
 
 ### Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadm712)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="left">
 <a href="https://github.com/ahmadm712">
-  
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadm712&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadm712&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
