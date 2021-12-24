@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning MERN Stack,Flutter,Laravel
 
+- 👨‍ I’m Work as Junior Software Engineer Intern at ELC
+
 - 📫 How to reach me: Reach out to me directly through my [Instagram](https://instagram.com/ahmxmad) or [Linkedin](https://www.linkedin.com/in/ahmad-muji-burohman/)
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://ahmadmuji.netlify.app/)**
