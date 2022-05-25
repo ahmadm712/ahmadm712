@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning MERN Stack,Flutter
 
-- 👨‍ I’m Work as Software Engineer at ELC
+- 👨‍ I’m Work as Flutter Developer at Roketin
 
 - 📫 How to reach me: Reach out to me directly through my [Instagram](https://instagram.com/ahmxmad) or [Linkedin](https://www.linkedin.com/in/ahmad-muji-burohman/)
 
