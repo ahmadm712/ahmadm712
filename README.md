@@ -1,6 +1,6 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
-<h1 align="center">Hi There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, 
+<h1 align="center">Hi There, 
 I'm Ahmad Muji</h1>
 <h3 align="center">I'm passionate Be A Mobile Developer and Web Developer.</h3>
 
