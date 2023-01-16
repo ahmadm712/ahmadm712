@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning MERN Stack,Flutter
 
-- 👨‍ I’m Work as Mobile Developer at Airmas Group
+- 👨‍ I’m Work as Mobile Developer
 
 - 📫 How to reach me: Reach out to me directly through my [Instagram](https://instagram.com/ahmxmad) or [Linkedin](https://www.linkedin.com/in/ahmad-muji-burohman/)
 
