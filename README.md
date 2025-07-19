@@ -12,9 +12,6 @@ Here are some ideas to get you started:
 -->
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m a collage student at at [Sekolah Tinggi Teknologi Bandung](https://sttbandung.ac.id)
-
-- 🌱 I’m currently learning MERN Stack,Flutter
 
 - 👨‍ I’m Work as Mobile Developer
 
